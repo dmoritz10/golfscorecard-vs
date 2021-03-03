@@ -9,8 +9,8 @@
 	"short_name" : "Golf",
 	"splash_pages": null,
     "icons": [{
-      "src": "images/icons/golf-icon.png",
-      "sizes": "122x122",
+      "src": "images/icons/icon-72x72.png",
+      "sizes": "72x72",
       "type": "image/png"
     }]
 }
