@@ -9,7 +9,7 @@
 	"short_name" : "Golf",
 	"splash_pages": null,
     "icons": [{
-      "src": "images/icons/golf-icon.png",
+      "src": "https://cdn.jsdelivr.net/gh/dmoritz10/golfscorecard-vs/images/icons/golf-icon.png",
       "sizes": "122x122",
       "type": "image/png"
     }]
