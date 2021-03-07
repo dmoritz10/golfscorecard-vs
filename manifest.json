@@ -6,7 +6,7 @@
 	"display" : "standalone",
 	"orientation" : "portrait",
 	"lang" : "",
-	"short_name" : "Golf",
+	"short_name" : "dan",
 	"splash_pages": null,
     "icons": [{
       "src": "https://cdn.jsdelivr.net/gh/dmoritz10/golfscorecard-vs/images/icons/golf-icon.png",
