@@ -2,14 +2,14 @@
 	"name" : "Golf Scorecard",
 	"theme_color" : "#f9f9f9",
 	"background_color" : "#62db77",
-	"start_url" : "https://cdn.jsdelivr.net/gh/dmoritz10/golfscorecard-vs/",
+	"start_url" : "https://dmoritz10.github.io/golfscorecard-vs/",
 	"display" : "standalone",
 	"orientation" : "portrait",
 	"lang" : "",
 	"short_name" : "Golf",
 	"splash_pages": null,
     "icons": [{
-      "src": "https://cdn.jsdelivr.net/gh/dmoritz10/golfscorecard-vs/images/icons/golf-icon.png",
+      "src": "icons/golf-icon.png",
       "sizes": "122x122",
       "type": "image/png"
     }]
