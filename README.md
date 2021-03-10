@@ -1,6 +1,10 @@
 # golfscorecard-vs
 
-https://dmoritz10.github.io/golfscorecard-vs/index
+-vs version is related to the new Google IDE, which uses a different url than the legacy IDE.
+
+PWA
+
+  https://dmoritz10.github.io/golfscorecard-vs/index
 
 
 To change manifest.json, use cdn.jsdelivr.net versioning:
