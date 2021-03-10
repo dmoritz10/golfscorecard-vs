@@ -6,11 +6,11 @@
 	"display" : "standalone",
 	"orientation" : "portrait",
 	"lang" : "",
-	"short_name" : "Golf",
+	"short_name" : "DM Golf",
 	"splash_pages": null,
     "icons": [{
       "src": "images/icons/golf-icon.png",
-      "sizes": "122x122",
+      "sizes": "144x144",
       "type": "image/png"
     }]
 }
