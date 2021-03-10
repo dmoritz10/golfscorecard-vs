@@ -9,8 +9,8 @@
 	"short_name" : "dan",
 	"splash_pages": null,
     "icons": [{
-      "src": "images/icons/golf-icon.png",
-      "sizes": "122x122",
+      "src": "images/icons/icon-144x144.png",
+      "sizes": "144x144",
       "type": "image/png"
     }]
 }
