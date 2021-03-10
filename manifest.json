@@ -6,11 +6,11 @@
 	"display" : "standalone",
 	"orientation" : "portrait",
 	"lang" : "",
-	"short_name" : "DM Golf",
+	"short_name" : "Dan Golf",
 	"splash_pages": null,
     "icons": [{
-      "src": "images/icons/golf-icon.png",
-      "sizes": "144x144",
+      "src": "images/icons/golf-icon 512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }]
 }
